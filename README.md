@@ -2,7 +2,7 @@
 
 ![Demo App](/screenshot-for-readme.png)
 
-About This Course:
+About This Project:
 
 - 🚀 Python virtual environment setup
 - 💬 Socket.io and Flask integration
@@ -14,7 +14,7 @@ About This Course:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/burakorkmez/python-chat.git
+git clone https://github.com/Tukur-eng/python-chat.git
 ```
 
 2. Navigate to the project directory:
